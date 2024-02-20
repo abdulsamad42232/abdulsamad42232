@@ -1,4 +1,4 @@
-👋 Hello, I'm Samad, an Electronics Engineering student at NED University.
+👋 Assalamualikum, I'm Samad, an Electronics Engineering student at NED University.
 
 My academic journey involves delving into the complexities of Electronics Engineering ⚡️, where I'm honing my skills in various domains. Beyond my core curriculum🏭, I'm passionate about continuous learning 💡 and growth. I've delved into a variety of subjects, from mastering languages like C, MATLAB, and IoT 🤖, to exploring the realm of data science with Python👨‍💻 .
 
