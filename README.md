@@ -63,5 +63,5 @@ I’m open to **collaborations, research discussions, and technical problem-solv
 ## ☕ Support
 If you find my work helpful:
 - ⭐ Star the repositories you like  
-- ☕ Buy Me a Coffee *buymeacoffee.com/samad42232*
+- ☕ Buy Me a Coffee buymeacoffee.com/samad42232
 
