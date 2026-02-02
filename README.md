@@ -63,8 +63,8 @@ I’m open to **collaborations, research discussions, and technical problem-solv
 ## ☕ Support
 If you find my work helpful:
 
- ⭐ Star the repositories you like
-  OR 
+ -⭐ Star the repositories you like
+ 
 <a href="https://buymeacoffee.com/samad42232" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
