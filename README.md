@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Abdul Samad Khan
+## Abdul Samad Khan
 
-I work at the intersection of **embedded systems, industrial automation, and applied AI**, building real-world solutions that integrate hardware, software, and intelligent systems.
+Hi, I’m Abdul Samad Khan, I work at the intersection of **embedded systems, industrial automation, and applied AI**, building real-world solutions that integrate hardware, software, and intelligent systems.
 
 My experience spans **industrial automation deployments, research-oriented labs, and international hackathons**, where I’ve worked on **machine vision systems, IoT platforms, and Python-based AI applications**. I’m particularly interested in designing **reliable, scalable, and intelligent engineering systems** through effective hardware–software co-design.
 
