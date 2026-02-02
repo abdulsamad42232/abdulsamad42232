@@ -6,7 +6,7 @@ My experience spans **industrial automation deployments, research-oriented labs,
 
 ---
 
-## 🧠 Focus Areas
+## Focus Areas
 - Embedded & Intelligent Systems  
 - Industrial Automation & Machine Vision  
 - Internet of Things (IoT)  
@@ -16,34 +16,34 @@ My experience spans **industrial automation deployments, research-oriented labs,
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🤖 AI / Data
+### AI / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🔌 Embedded & IoT
+### Embedded & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?style=flat)
 
-### 🏭 Industrial Automation
+### Industrial Automation
 ![PLC](https://img.shields.io/badge/PLC-Basics-blue?style=flat)
 ![Machine Vision](https://img.shields.io/badge/Machine%20Vision-Industrial-green?style=flat)
 ![Ethernet](https://img.shields.io/badge/Ethernet-Communication-informational?style=flat)
 
-### 🌐 Web & Backend
+### Web & Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
@@ -51,7 +51,7 @@ My experience spans **industrial automation deployments, research-oriented labs,
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 I’m open to **collaborations, research discussions, and technical problem-solving** in embedded intelligence, automation, and AI-driven systems.
 
 📫 **Reach me at:**  
